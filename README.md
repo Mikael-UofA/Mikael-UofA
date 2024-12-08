@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my course management system EduLog<br><br>🚀 Favorite Solo Project: GeoPhantom - A location spoofing Chrome Extension<br><br>🎎 Favorite Group Project: QrazyQRsRUs - Event Management System<br><br>🗺️ Hobby: I enjoy analyzing and mapping present and past election results by creating visual representations (usually maps)
+🔭 I’m currently working on my district court map PartiCourt<br><br>🚀 Favorite Solo Project: GeoPhantom - A location spoofing Chrome Extension<br><br>🎎 Favorite Group Project: QrazyQRsRUs - Event Management System<br><br>🗺️ Hobby: I enjoy analyzing and mapping present and past election results by creating visual representations (usually maps)
 
 
 # 💻 Tech Stack:
